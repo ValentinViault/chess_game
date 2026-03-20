@@ -27,3 +27,4 @@ This project is a simple implementation of a chess game in Python.
 ## Installation
 
 1. Clonez le dépôt / Clone the repository :
+https://github.com/ValentinViault/chess_game
